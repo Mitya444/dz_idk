@@ -1,0 +1,6 @@
+{% extends "device.html" %}
+
+{% block content %}
+<h1>iMac</h1>
+<p>я забіл єто комп или ноут аймак?.</p>
+{% endblock %}
